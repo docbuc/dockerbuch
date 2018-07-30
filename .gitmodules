@@ -1,0 +1,3 @@
+[submodule "hello-world-node"]
+	path = hello-world-node
+	url = https://github.com/docbuc/hello-world-node
