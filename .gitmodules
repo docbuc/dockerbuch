@@ -1,3 +1,45 @@
 [submodule "hello-world-node"]
 	path = hello-world-node
 	url = https://github.com/docbuc/hello-world-node
+[submodule "grafana"]
+	path = grafana
+	url = https://github.com/docbuc/grafana.git
+[submodule "hello-world-php"]
+	path = hello-world-php
+	url = https://github.com/docbuc/hello-world-php.git
+[submodule "cicd"]
+	path = cicd
+	url = https://github.com/docbuc/cicd.git
+[submodule "webapps"]
+	path = webapps
+	url = https://github.com/docbuc/webapps.git
+[submodule "db"]
+	path = db
+	url = https://github.com/docbuc/db.git
+[submodule "gitlab"]
+	path = gitlab
+	url = https://github.com/docbuc/gitlab.git
+[submodule "mwa"]
+	path = mwa
+	url = https://github.com/docbuc/mwa.git
+[submodule "prog"]
+	path = prog
+	url = https://github.com/docbuc/prog.git
+[submodule "security"]
+	path = security
+	url = https://github.com/docbuc/security.git
+[submodule "swarm"]
+	path = swarm
+	url = https://github.com/docbuc/swarm.git
+[submodule "webserver"]
+	path = webserver
+	url = https://github.com/docbuc/webserver.git
+[submodule "dockerfile"]
+	path = dockerfile
+	url = https://github.com/docbuc/dockerfile.git
+[submodule "hello-world-python"]
+	path = hello-world-python
+	url = https://github.com/docbuc/hello-world-python.git
+[submodule "k8s"]
+	path = k8s
+	url = https://github.com/docbuc/k8s.git
