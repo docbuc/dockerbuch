@@ -16,3 +16,7 @@ git clone https://github.com/docbuc/dockerbuch.git
 cd dockerbuch
 git submodule update --init --recursive
 ```
+
+Wenn Sie sich die Unterlagen für die erste Auflage des Buches herunterladen
+möchten verwenden Sie den [git-tag
+v1](https://github.com/docbuc/dockerbuch/tree/v1).
