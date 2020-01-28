@@ -4,10 +4,10 @@
 
 von [Bernd Öggl](https://komplett.cc), [Michael Kofler](https://kofler.info).
 
-431 Seiten, 2018, gebunden
-Rheinwerk Computing, ISBN 978-3-8362-6176-0
+467 Seiten, 2.,  Auflage 2020, gebunden
+Rheinwerk Computing, ISBN 978-3-8362-7226-1
 
-https://www.rheinwerk-verlag.de/docker_4599/
+https://www.rheinwerk-verlag.de/docker_4959/
 
 Verwenden Sie dieses Repository folgendermaßen um alle Beispiele herunterzuladen:
 
