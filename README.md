@@ -2,12 +2,12 @@
 
 ## Das Praxisbuch für Entwickler und DevOps-Teams
 
-von [Bernd Öggl](https://komplett.cc), [Michael Kofler](https://kofler.info).
+von [Bernd Öggl](https://webman.at), [Michael Kofler](https://kofler.info).
 
-467 Seiten, 2.,  Auflage 2020, gebunden
-Rheinwerk Computing, ISBN 978-3-8362-7226-1
+496 Seiten, 3.,  Auflage 2021, gebunden
+Rheinwerk Computing, ISBN 78-3-8362-8634-3
 
-https://www.rheinwerk-verlag.de/docker_4959/
+https://www.rheinwerk-verlag.de/5393
 
 Verwenden Sie dieses Repository folgendermaßen um alle Beispiele herunterzuladen:
 
@@ -17,6 +17,3 @@ cd dockerbuch
 git submodule update --init --recursive
 ```
 
-Wenn Sie sich die Unterlagen für die erste Auflage des Buches herunterladen
-möchten verwenden Sie den [git-tag
-v1](https://github.com/docbuc/dockerbuch/tree/v1).
