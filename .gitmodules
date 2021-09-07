@@ -43,3 +43,9 @@
 [submodule "k8s"]
 	path = k8s
 	url = https://github.com/docbuc/k8s.git
+[submodule "grafana-manual"]
+	path = grafana-manual
+	url = https://github.com/docbuc/grafana-manual
+[submodule "docker-compose"]
+	path = docker-compose
+	url = https://github.com/docbuc/docker-compose.git
